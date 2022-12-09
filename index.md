@@ -19,7 +19,11 @@ In neuropsychological research collections of tests are used in order to measure
 Paper \( \), code
 
 ### Rate Optimal Deconvolution of the Semiparametric Rasch Model and High Dimensional Goodness-of-Fit Tests
-We consider the semiparametric Rasch model, the canonical nonparametric item respoonse theory model. 
+We consider the semiparametric Rasch model, the canonical nonparametric item response theory model. This involves a random variable 
+
+
+$$ \theta_i \sim G $$
+$$ P(Y_{ij} = 1|\theta_i, \beta_j) = (1 + \exp(-(\theta_i - \beta_j)))^{-1} $$
 
 Paper \(Preprint forthcoming\)
 
@@ -36,8 +40,8 @@ I have been a teaching assistant for the following courses.
 *   STAT 257 Probability, Statistics and Data Analysis I
 *   STAT 261 Probability, Statistics and Data Analysis II 
 *   STAT 305 Design and Analysis of Experiments
-*   
-### News
+
+
 
 
 
