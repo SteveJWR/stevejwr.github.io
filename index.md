@@ -22,7 +22,8 @@ Paper \( \), code
 We consider the semiparametric Rasch model, the canonical nonparametric item response theory model. This involves a random variable 
 
 
-$$ \theta_i \sim G $$
+$$ \theta_i \sim G $$, 
+
 $$ P(Y_{ij} = 1|\theta_i, \beta_j) = (1 + \exp(-(\theta_i - \beta_j)))^{-1} $$
 
 Paper \(Preprint forthcoming\)
