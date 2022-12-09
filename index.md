@@ -9,8 +9,14 @@ I am a PhD candidate in the Department of Statistics at the University of Washin
 My research is motivated by the applications and theory of latent variable models, particularly with applications to statistical network analysis and neurodegenerative disease research.  My theoretical interest lie in understanding the limits of deconvolution and identification of geometric properties of latent variable models.  Recently, I have also been interested in causality under interference. 
 
 ### Estimating Curvature of Latent Variable Models 
+Models of Network formation often rely on ...
 
-### Estimating 
+### Nonparametric Data Harmonization 
+In neuropsychological research collections of tests are used in order to measure particular cognitive traits.  Over the versions of tests may be changed, leading to challenges in longitudinal analysis over prolonged time periods.  We present a model for outcome imputation we refer to as DNoise which posits a nonparametric latent distribution and converts the scores via matching the quantiles of the corresponding measurements.  This allows a user to impute the missing outcomes on the desired scale, and allows for longer term study of cognitive decline. 
+
+### Rate Optimal Deconvolution of the Semiparametric Rasch Model and High Dimensional Goodness-of-Fit Tests
+We consider the problem of $t$
+
 
 ## Teaching
 I have been a teaching assistant for the following courses.  
