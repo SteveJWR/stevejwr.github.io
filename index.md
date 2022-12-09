@@ -32,7 +32,11 @@ I have been a teaching assistant for the following courses.
 *   STAT 340/342 Introduction to Probability and Mathematical Statistics I/III 
 
 ### University of Toronto 
-
+*   STAT 220 The Practice of Statistics I
+*   STAT 257 Probability, Statistics and Data Analysis I
+*   STAT 261 Probability, Statistics and Data Analysis II 
+*   STAT 305 Design and Analysis of Experiments
+*   
 ### News
 
 
