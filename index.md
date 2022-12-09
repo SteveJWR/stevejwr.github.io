@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a PhD candidate in the Department of Statistics at the University of Washington.  I have been fortunate to be advised by Professors [Yen-Chi Chen](http://faculty.washington.edu/yenchic/), and [Tyler McCormick](https://thmccormick.github.io/) as well as collaborate with [Kwun Chuen Gary Chan](http://faculty.washington.edu/kcgchan/).  Previously I recieved my MS in Statistics at the University of Toronto and BS in Mathematical Physics at Queen's University. 
+I am a PhD candidate in the Department of Statistics at the University of Washington.  I have been fortunate to be advised by Professors [Yen-Chi Chen](http://faculty.washington.edu/yenchic/), and [Tyler McCormick](https://thmccormick.github.io/) as well as collaborate with [Kwun Chuen Gary Chan](http://faculty.washington.edu/kcgchan/).  Previously I recieved my MS in Statistics at the University of Toronto and BSc in Mathematical Physics at Queen's University. 
 
 ## Research 
 
@@ -19,12 +19,15 @@ In neuropsychological research collections of tests are used in order to measure
 Paper \( \), code
 
 ### Rate Optimal Deconvolution of the Semiparametric Rasch Model and High Dimensional Goodness-of-Fit Tests
-We consider the semiparametric Rasch model, the canonical nonparametric item response theory model. This involves a random variable 
+We consider the semiparametric Rasch model, the canonical nonparametric item response theory model. This involves a random latent variable draws under the following model. 
 
+$$\theta_i \in \mathbb{R}, \beta_j \in \mathbb{R} $$
 
-$$ \theta_i \sim G $$
+$$ \theta_i \sim G$$ 
 
-$$ P(Y_{ij} = 1|\theta_i, \beta_j) = (1 + \exp(-(\theta_i - \beta_j)))^{-1} $$
+$$ P(Y_{ij} = 1|\theta_i, \beta_j) = (1 + \exp(-(\theta_i - \beta_j)))^{-1} $$]
+
+where $Y_{ij} \in \{0,1\}$ denotes the event of individual $i$ answering question $j$ correctly.  We consider the problem of optimally estimating $G$ under no distributional assumptions and show that minimax optimality is achieved for the nonparametric maximum likelihood estimator. 
 
 Paper \(Preprint forthcoming\)
 
@@ -46,10 +49,3 @@ I have been a teaching assistant for the following courses.
 
 
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
