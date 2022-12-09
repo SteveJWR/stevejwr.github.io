@@ -11,12 +11,12 @@ My research is motivated by the applications and theory of latent variable model
 ### Estimating Curvature of Latent Variable Models 
 Models of Network formation often rely on assumptions that connections are drawn according to some model where nodes have positions on a latent space, and edge probabilities vary as the distances on the space. 
 
-Paper \( \), code, Rpackage
+(Paper)[https://arxiv.org/abs/2211.11673], code, Rpackage
 
 ### Nonparametric Data Harmonization 
 In neuropsychological research collections of tests are used in order to measure particular cognitive traits.  Over the versions of tests may be changed, leading to challenges in longitudinal analysis over prolonged time periods.  We present a model for outcome imputation we refer to as DNoise which posits a nonparametric latent distribution and converts the scores via matching the quantiles of the corresponding measurements.  This allows a user to impute the missing outcomes on the desired scale, and allows for longer term study of cognitive decline. 
 
-Paper \( \), code
+(Paper)[https://arxiv.org/abs/2110.06077], code
 
 ### Rate Optimal Deconvolution of the Semiparametric Rasch Model and High Dimensional Goodness-of-Fit Tests
 We consider the semiparametric Rasch model, the canonical nonparametric item response theory model. This involves a random latent variable draws under the following model. 
