@@ -9,7 +9,7 @@ I am a PhD candidate in the Department of Statistics at the University of Washin
 My research is motivated by the applications and theory of latent variable models, particularly with applications to statistical network analysis and neurodegenerative disease research.  My theoretical interest lie in understanding the limits of deconvolution and identification of geometric properties of latent variable models.  Recently, I have also been interested in causality under interference. 
 
 ### Estimating Curvature of Latent Variable Models 
-Models of Network formation often rely on ...
+Models of Network formation often rely on assumptions that connections are drawn according to some model where nodes have positions on a latent space, and edge probabilities vary as the distances on the space. 
 
 Paper \( \), code, Rpackage
 
@@ -25,7 +25,7 @@ $$\theta_i \in \mathbb{R}, \beta_j \in \mathbb{R} $$
 
 $$ \theta_i \sim G$$ 
 
-$$ P(Y_{ij} = 1|\theta_i, \beta_j) = (1 + \exp(-(\theta_i - \beta_j)))^{-1} $$]
+$$ P(Y_{ij} = 1|\theta_i, \beta_j) = (1 + \exp(-(\theta_i - \beta_j)))^{-1} $$
 
 where $Y_{ij} \in \{0,1\}$ denotes the event of individual $i$ answering question $j$ correctly.  We consider the problem of optimally estimating $G$ under no distributional assumptions and show that minimax optimality is achieved for the nonparametric maximum likelihood estimator. 
 
