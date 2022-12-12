@@ -2,7 +2,8 @@
 layout: default
 ---
 
-I am a PhD candidate in the Department of Statistics at the University of Washington.  I have been fortunate to be advised by Professors [Yen-Chi Chen](http://faculty.washington.edu/yenchic/), and [Tyler McCormick](https://thmccormick.github.io/) as well as collaborate with [Kwun Chuen Gary Chan](http://faculty.washington.edu/kcgchan/).  Previously I recieved my MS in Statistics at the University of Toronto and BSc in Mathematical Physics at Queen's University. 
+I am a PhD candidate in the Department of Statistics at the University of Washington.  I have been fortunate to be advised by Professors [Yen-Chi Chen](http://faculty.washington.edu/yenchic/), and [Tyler McCormick](https://thmccormick.github.io/) as well as collaborate with [Kwun Chuen Gary Chan](http://faculty.washington.edu/kcgchan/).  Previously I recieved my MS in Statistics at the University of Toronto and BSc in Mathematical Physics at Queen's University. My email is stevewr (at) uw (dot) edu, and you can find my CV [here](Steven_Wilkins_Reeves_CV.pdf
+). 
 
 ## Research 
 
@@ -36,6 +37,7 @@ I have been a teaching assistant for the following courses.
 *   STAT 257 Probability, Statistics and Data Analysis I
 *   STAT 261 Probability, Statistics and Data Analysis II 
 *   STAT 305 Design and Analysis of Experiments
+
 
 
 
